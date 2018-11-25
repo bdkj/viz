@@ -1,0 +1,2 @@
+# viz
+The vizualizations repository
