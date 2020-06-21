@@ -1,0 +1,30 @@
+Male_Rank,Female_Rank,State,Male,Female
+1,1,Kerala,99,97
+4,3,Punjab,94,95
+3,3,Tamil Nadu,95,95
+1,2,Goa,99,96
+2,5,Andhra Pradesh,96,93
+2,6,Mizoram,96,92
+2,7,Telangana,96,91
+2,8,Himachal Pradesh,96,90
+3,7,Karnataka,95,91
+5,10,Uttarakhand,93,85
+6,10,Maharashtra,92,85
+7,12,Manipur,91,83
+8,4,Sikkim,90,94
+8,15,Jammu and Kashmir,90,79
+9,16,West Bengal,88,78
+10,13,Gujarat,87,82
+11,11,Tripura,86,84
+11,18,India[2],86,75
+17,23,Assam,76,58
+19,24,Uttar Pradesh,73,56
+18,22,Nagaland,74,66
+14,18,Odisha,81,75
+16,21,Rajasthan,79,68
+15,19,Arunachal Pradesh,80,70
+20,26,Bihar,68,40
+12,14,Chhattisgarh,85,80
+16,20,Madhya Pradesh,79,69
+13,17,Meghalaya,82,76
+21,25,Jharkhand,65,49 
